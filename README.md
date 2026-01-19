@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Gundekari-Srinidhi/JANUARY-2025/tree/master/0930-binary-subarrays-with-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/Gundekari-Srinidhi/JANUARY-2025/tree/master/0978-longest-turbulent-subarray) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gundekari-Srinidhi/JANUARY-2025/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gundekari-Srinidhi/JANUARY-2025/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Array
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Gundekari-Srinidhi/JANUARY-2025/tree/master/0930-binary-subarrays-with-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/Gundekari-Srinidhi/JANUARY-2025/tree/master/0978-longest-turbulent-subarray) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gundekari-Srinidhi/JANUARY-2025/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,4 +34,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Gundekari-Srinidhi/JANUARY-2025/tree/master/0930-binary-subarrays-with-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gundekari-Srinidhi/JANUARY-2025/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
