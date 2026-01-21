@@ -1,16 +1,21 @@
 class Solution:
     def numSubarraysWithSum(self, nums: List[int], goal: int) -> int:
-        s=0
-        n=len(nums)
-        f={0:1}
-        prefix_sum=0
-        for num in nums:
-            prefix_sum+=num
-            if prefix_sum-goal in f:
-                s+=f[prefix_sum-goal]
-            if prefix_sum in f:
-                f[prefix_sum]+=1
-            else:
-                f[prefix_sum]=1
-        return s
+        def binary(nums,goal):
+            if goal<0:
+                return 0
+            left,right=0,0
+            n=len(nums)
+            Sum=0
+            count=0
+            while right<n:
+                Sum+=nums[right]
+                while Sum>goal:
+                    Sum-=nums[left]
+                    left+=1
+                
+
+                count+=right-left+1
+                right+=1
+            return count
+        return binary(nums,goal)-binary(nums,goal-1)
         
