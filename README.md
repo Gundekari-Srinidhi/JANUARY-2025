@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/0455-assign-cookies) |
 | [0904-fruit-into-baskets](https://github.com/Gundekari-Srinidhi/JANUARY-2025/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gundekari-Srinidhi/JANUARY-2025/tree/master/0930-binary-subarrays-with-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/Gundekari-Srinidhi/JANUARY-2025/tree/master/0978-longest-turbulent-subarray) |
@@ -52,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/1248-count-number-of-nice-subarrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
