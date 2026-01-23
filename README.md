@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/0057-insert-interval) |
 | [0435-non-overlapping-intervals](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/0860-lemonade-change) |
