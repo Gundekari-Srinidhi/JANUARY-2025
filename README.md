@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Gundekari-Srinidhi/JANUARY-2025/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Gundekari-Srinidhi/JANUARY-2025/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gundekari-Srinidhi/JANUARY-2025/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gundekari-Srinidhi/JANUARY-2025/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
@@ -77,8 +78,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/0455-assign-cookies) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/0062-unique-paths) |
+## Tree
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
