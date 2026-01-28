@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/Gundekari-Srinidhi/JANUARY-2025/tree/master/0978-longest-turbulent-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gundekari-Srinidhi/JANUARY-2025/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2974-minimum-number-game](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/2974-minimum-number-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2974-minimum-number-game](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/2974-minimum-number-game) |
 ## Combinatorics
 |  |
 | ------- |
@@ -104,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/0051-n-queens) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/2974-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
