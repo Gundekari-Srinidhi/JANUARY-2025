@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Gundekari-Srinidhi/JANUARY-2025/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gundekari-Srinidhi/JANUARY-2025/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gundekari-Srinidhi/JANUARY-2025/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sliding Window
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/Gundekari-Srinidhi/JANUARY-2025/tree/master/0978-longest-turbulent-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gundekari-Srinidhi/JANUARY-2025/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2974-minimum-number-game](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/2974-minimum-number-game) |
 ## Dynamic Programming
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/0455-assign-cookies) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Gundekari-Srinidhi/JANUARY-2026/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
 | ------- |
